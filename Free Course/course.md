@@ -4,6 +4,7 @@ isAvailable: true
 isPremium: false
 categories: 
     - docker
+    - kubernetes
 learningPaths: 
     - Free Lp Check
 complexity: advance
