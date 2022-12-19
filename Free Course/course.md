@@ -1,4 +1,4 @@
-courseName: Multiple Lps Course
+courseName: Free Course
 description: New Multiple Course For Test
 isAvailable: true
 isPremium: false
