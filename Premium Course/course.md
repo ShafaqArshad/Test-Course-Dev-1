@@ -8,3 +8,6 @@ learningPaths:
     - Free Learning Path Shafaq
     - Premium Learning Path Shafaq
 complexity: advance
+price: 
+    value: 22
+    currency: USD
