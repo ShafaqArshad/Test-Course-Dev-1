@@ -1,4 +1,4 @@
-title: Learning Path Live
+title: Learning Path Live Kubernetes
 description: Lets learn how to build a web application with Flask.
 scenarios: []
 isPremium: false
