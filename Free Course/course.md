@@ -8,4 +8,6 @@ categories:
 learningPaths: 
     - Free Lp Check
 complexity: advance
-price: 20 USD
+price:
+    currency: USD
+    value: 30
