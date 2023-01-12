@@ -1,7 +1,7 @@
 courseName: Free Course
 description: New Multiple Course For Test
 isAvailable: true
-isPremium: true
+isPremium: false
 categories: 
     - docker
     - kubernetes
