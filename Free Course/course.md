@@ -7,7 +7,7 @@ categories:
     - kubernetes
 learningPaths: 
     - Free Lp Check
-complexity: advance
+complexity: advancem
 price:
     currency: USD
     value: 30
