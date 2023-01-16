@@ -4,5 +4,6 @@ isAvailable: true
 isPremium: false
 categories: 
     - docker
-learningPaths: []
+learningPaths: 
+    - Free Lp Check 1
 complexity: advance
