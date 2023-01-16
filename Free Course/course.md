@@ -5,8 +5,7 @@ isPremium: false
 categories: 
     - docker
     - kubernetes
-learningPaths: 
-    - Free Lp Check
+learningPaths: []
 complexity: advance
 price:
     currency: USD
