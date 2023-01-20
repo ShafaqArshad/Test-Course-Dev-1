@@ -8,5 +8,5 @@ learningPaths:
     - Free Lp Check 1
 complexity: advance
 price:
-    - currency: USD
-    - value: 25
+    currency: USD
+    value: 25
