@@ -6,7 +6,6 @@ categories:
     - docker
 learningPaths: 
     - Free Lp Check 1
-    - Free Lp Check 2
 complexity: advance
 price:
     currency: USD
