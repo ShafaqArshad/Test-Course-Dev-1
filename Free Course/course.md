@@ -6,7 +6,7 @@ categories:
     - docker
     - kubernetes
 learningPaths: 
-    - Free Lp Checks
+    - Free Lp Check
 complexity: advance
 price:
     currency: USD
