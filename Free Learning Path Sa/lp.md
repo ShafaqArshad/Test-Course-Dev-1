@@ -1,5 +1,5 @@
 title: Free Learning Path Sa
-description: Lets learn how to build a web application with Flask.
+description: Lets learn how to build a web application with Flask. shafaq
 scenarios: 
     - Free Scenario In Hn
 isPremium: false
