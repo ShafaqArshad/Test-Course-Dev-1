@@ -1,7 +1,7 @@
 courseName: Free Course
 description: New Multiple Course For Test shafaq
 isAvailable: true
-isPremium: false
+isPremium: falsee
 categories: 
     - docker
     - kubernetes
